@@ -1,7 +1,7 @@
 ---
 AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
+    ContentProducer: Moon Agent AI
+    ContentPropagator: Moon Agent AI
     Label: AIGC
     ProduceID: "00000000000000000000000000000000"
     PropagateID: "00000000000000000000000000000000"
